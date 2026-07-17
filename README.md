@@ -339,20 +339,8 @@ Backend Engineering
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/ombhadoriya91_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/ombhadoriya91_">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
 <a href="https://codolio.com/profile/ombhadoriya91">
 <img src="https://img.shields.io/badge/Codolio-6E40C9?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/ombhadorqzi1">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
