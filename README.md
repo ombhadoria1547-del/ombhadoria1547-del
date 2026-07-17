@@ -218,7 +218,7 @@ The system supports multiple rate limiting algorithms while ensuring atomic stat
 - 📊 Standard HTTP Rate-Limit headers
 - ⚙️ Configurable rate & burst limits
 - 📈 Load tested using **k6**
-- 🌐 Deployable using **Render**
+- 🌐 Deployed using **Render**
 
 ---
 
@@ -320,7 +320,6 @@ Backend Engineering
 - 🏆 Earn **LeetCode Knight** badge
 - ⚙️ Learn Kubernetes & Cloud Infrastructure
 - 📚 Master System Design fundamentals
-- 💼 Secure a Software Engineering Internship
 
 ---
 
