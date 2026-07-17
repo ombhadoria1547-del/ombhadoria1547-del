@@ -359,3 +359,13 @@ Backend Engineering
 </div>
 
 ---
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ombhadoria1547-del/ombhadoria1547-del/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
